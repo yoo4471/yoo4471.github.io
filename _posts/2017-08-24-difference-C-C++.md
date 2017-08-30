@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: C와 C++의 차이점
 tags: [develop]
 author: yoo4471

@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: true
 title: Storage Classes in C++
 tags: [develop]
 author: yoo4471
